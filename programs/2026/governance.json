@@ -7,6 +7,11 @@
       "github_id": 62325246,
       "github_login": "zevorn",
       "signoffs": ["Chao Liu <chao.liu@processmission.com>"]
+    },
+    {
+      "github_id": 81150281,
+      "github_login": "hongquan-prog",
+      "signoffs": ["Hongquan Li <hongquan.li@processmission.com>"]
     }
   ]
 }
